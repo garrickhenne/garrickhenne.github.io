@@ -36,8 +36,8 @@ body,html,html a{
 p{
 	font-size:15px;
 	font-weight:400;
-	color:#a6a7aa;
-	margin-bottom:15px
+	color:#55575d;
+	margin-bottom:15px;
 }
 em,li,li a{
 	font-size:16px;
@@ -45,7 +45,7 @@ em,li,li a{
 	color:#515769
 }
 a{
-	color:#81848f
+	color:#55575d;
 }
 a:active,a:focus,a:hover{
 	color:#999caa
